@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/indenizacao-ligacoes",
+      "destination": "https://https://liga-es-dano-moral.vercel.app/"
+    }
+  ]
+}
