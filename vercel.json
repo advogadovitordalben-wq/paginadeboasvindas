@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/subdominio/:path*",
+      "destination": "https://liga-es-dano-moral.vercel.app/:path*"
+    }
+  ]
+}

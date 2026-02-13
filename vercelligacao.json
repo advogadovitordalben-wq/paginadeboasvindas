@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/ligacoesabusivas",
-      "destination": "https://liga-es-dano-moral.vercel.app/"
-    }
-  ]
-}
