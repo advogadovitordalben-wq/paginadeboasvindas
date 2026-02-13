@@ -1,12 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/ligacoesabusivas",
-      "destination": "https://liga-es-dano-moral.vercel.app"
-    },
-    {
-      "source": "/ligacoesabusivas/:path*",
-      "destination": "https://liga-es-dano-moral.vercel.app/:path*"
+      "destination": "https://liga-es-dano-moral.vercel.app",
+      "permanent": true
     }
   ]
 }
