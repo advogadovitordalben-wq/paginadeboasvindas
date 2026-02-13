@@ -1,7 +1,11 @@
 {
   "rewrites": [
     {
-      "source": "ligacoesabusivas:path*",
+      "source": "/ligacoesabusivas",
+      "destination": "https://liga-es-dano-moral.vercel.app"
+    },
+    {
+      "source": "/ligacoesabusivas/:path*",
       "destination": "https://liga-es-dano-moral.vercel.app/:path*"
     }
   ]
