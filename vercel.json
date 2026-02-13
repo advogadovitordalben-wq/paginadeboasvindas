@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/subdominio/:path*",
+      "source": "ligacoesabusivas:path*",
       "destination": "https://liga-es-dano-moral.vercel.app/:path*"
     }
   ]
